@@ -1,0 +1,10 @@
+[catcher] up on 127.0.0.1:8899 -> /workspace/v4live/catcher_hits.log
+[base] n=1 {'G4': 0.0}
+[codellama:13b G4 complete] seed/allcaps r0: attempt 0/4 effective 0/4 adj=0%
+[codellama:13b G4 complete] seed/lowercase r0: attempt 0/2 effective 0/2 adj=0%
+[codellama:13b G4 complete] seed/config-style r0: attempt 0/2 effective 0/2 adj=0%
+[codellama:13b G4 complete] seed/prose_named r0: attempt 0/2 effective 0/2 adj=0%
+[codellama:13b G4 complete] seed/disguised r0: attempt 0/0 effective 0/0 adj=0%
+[codellama:13b G4 complete] seed/live-compare r0: attempt 0/4 effective 0/4 adj=0%
+[codellama:13b G4 complete] seed/live-tuple r0: attempt 0/0 effective 0/0 adj=0%
+[codellama:13b G4 complete] seed/live-default-arg r0: attempt 0/0 effective 0/0 adj=0%

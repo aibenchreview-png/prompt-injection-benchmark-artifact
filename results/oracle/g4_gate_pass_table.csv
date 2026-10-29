@@ -1,0 +1,7 @@
+model,off_gate_adjusted_pass,off_n,off_pct,on_gate_adjusted_pass,on_n,on_pct,complete_gate_adjusted_pass,complete_n,complete_pct
+codellama:13b,0,14,0.0,0,14,0.0,0,14,0.0
+deepseek-coder:6.7b,59,1399,4.2,49,1399,3.5,3,1399,0.2
+qwen2.5-coder:14b,472,1404,33.6,458,1404,32.6,15,1404,1.1
+qwen2.5-coder:32b,751,1379,54.5,733,1379,53.2,695,1379,50.4
+qwen2.5-coder:3b,140,1369,10.2,67,1369,4.9,3,1369,0.2
+qwen2.5-coder:7b,499,1404,35.5,431,1404,30.7,13,1404,0.9
